@@ -3,7 +3,7 @@ layout: default
 title: 대시보드
 ---
 
-#                           [Watch AI 대시보드 - 울산 쇼룸01](https://public.tableau.com/views/ai01/1?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
