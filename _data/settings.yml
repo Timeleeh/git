@@ -4,7 +4,7 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: 컴퓨테이셔널 저널리즘 _ 이정훈
+  text: 
 
 #Nav 
 nav:
